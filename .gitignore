@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/portfolio_dashboard_1_BE/.gitignore
+/portfolio_dashboard_2_BE/.gitignore
 
 # testing
 /coverage
